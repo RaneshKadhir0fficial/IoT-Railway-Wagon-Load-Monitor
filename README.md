@@ -166,21 +166,6 @@ The original design also included a Telegram Bot for instant notifications. :con
 
 ---
 
-# 📂 Project Structure
-
-```text
-IoT-Railway-Wagon-Load-Monitor/
-
-├── Arduino Source Code
-├── Circuit Diagram
-├── Documentation
-├── Images
-├── PPT Presentation
-└── README.md
-```
-
----
-
 # 📈 Results
 
 The developed prototype successfully:
