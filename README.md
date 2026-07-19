@@ -169,7 +169,7 @@ The original design also included a Telegram Bot for instant notifications. :con
 # 📈 Results
 
 The developed prototype successfully:
-
+Output & Results.png
 - Captured weight accurately using a Load Cell.
 - Uploaded live sensor data to ThingSpeak.
 - Displayed weight conditions remotely.
